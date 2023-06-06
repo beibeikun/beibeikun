@@ -1,13 +1,6 @@
-<h1>🫶こんにちは、beibeikunです🫶</h1>
+# 🫶こんにちは、beibeikunです🫶
 
-
-<p>
-  <a href="https://github.com/beibeikun" class="rich-diff-level-one">
-    <img src="https://github-readme-stats.vercel.app/api?username=beibeikun&show_icons=true&theme=vue" alt="beibeikun's Stats" >
-  </a>
-</p>
-<h2></h2>
-
+<img src="https://github-readme-stats.vercel.app/api?username=beibeikun&show_icons=true&theme=vue" />
 
 ### Platforms
 ![iOS](https://img.shields.io/badge/iOS-000000?logo=ios&logoColor=white)
@@ -33,6 +26,3 @@
 ![Playstation](https://img.shields.io/badge/Playstation-003791.svg?logo=playstation&logoColor=white)
 ![xbox](https://img.shields.io/badge/xbox-107C10.svg?logo=xbox&logoColor=white)
 ![Steam](https://img.shields.io/badge/Steam-000000.svg?logo=steam&logoColor=white)
-
-
-
