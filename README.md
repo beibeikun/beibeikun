@@ -1,28 +1,44 @@
-# 🫶こんにちは、beibeikunです🫶
+# 👾I'm beibeikun👾
 
-<img src="https://github-readme-stats.vercel.app/api?username=beibeikun&show_icons=true&theme=vue" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=beibeikun&theme=vue" />
 
-### Platforms
-![iOS](https://img.shields.io/badge/iOS-000000?logo=ios&logoColor=white)
-![windows](https://img.shields.io/badge/windows-0078D6?logo=windows&logoColor=white)
+#### Platforms
+![windows](https://img.shields.io/badge/Windows_11-0078d4?logo=windows-11&logoColor=white)
+![ubuntu](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white)
+![macOS](https://img.shields.io/badge/mac%20os-000000?logo=apple&logoColor=white)
 
-### Languages
+#### Equipments
+![win](https://img.shields.io/badge/Lenovo-Legion%20Y9000P%202023-0078D6.svg?logo=lenovo&logoColor=white)
+![nvidia](https://img.shields.io/badge/NVIDIA-RTX4070-76B900?logo=nvidia&logoColor=white)
+![mac](https://img.shields.io/badge/Apple-MacBook_Pro_2020-333333?logo=apple&logoColor=white)
+
+#### Languages
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330.svg?logo=javascript&logoColor=F7DF1E)
 ![Java](https://img.shields.io/badge/Java-ED8B00.svg?logo=java&logoColor=white)
+![Node](https://img.shields.io/badge/Node.js-43853D.svg?logo=node.js&logoColor=white)
+![Python](https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white)
 
-### Frameworks
+#### Frameworks
 ![VueJS](https://img.shields.io/badge/Vue.js-35495e.svg?logo=vue.js&logoColor=4FC08D)
 ![VSCode](https://img.shields.io/badge/VSCode-007ACC?logo=visual-studio-code&logoColor=white)
-![Microsoft SQL Server](https://img.shields.io/badge/SQL&nbsp;Server-CC2927?logo=microsoft-sql-server&logoColor=white)
-![Microsoft Azure](https://img.shields.io/badge/Microsoft&nbsp;Azure-0089D6?logo=microsoft-azure&logoColor=white)  
+![Microsoft SQL](https://img.shields.io/badge/Microsoft&nbsp;SQL&nbsp;Server-CC2927?logo=microsoft-sql-server&logoColor=white)
+![Microsoft Azure](https://img.shields.io/badge/Microsoft&nbsp;Azure-0089D6?logo=microsoft-azure&logoColor=white)
 ![IntelliJ](https://img.shields.io/badge/IntelliJ&nbsp;IDEA-black?logo=intellij-idea&logoColor=white)
 ![Markdown](https://img.shields.io/badge/Markdown-000000.svg?logo=markdown&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-black?logo=git)
 ![mysql](https://img.shields.io/badge/mysql-00000f.svg?logo=mysql&logoColor=white)
 
-### GamingPlatforms
+#### Design
+![Adobe Photoshop](https://img.shields.io/badge/Adobe&nbsp;Photoshop-31A8FF?logo=Adobe-Photoshop&logoColor=white)
+![Adobe Illustrator](https://img.shields.io/badge/Adobe&nbsp;Illustrator-FF9A00?logo=Adobe-Illustrator&logoColor=white)
+![Adobe Lightroom CC](https://img.shields.io/badge/Adobe&nbsp;Lightroom-31A8FF?logo=Adobe-Lightroom&logoColor=white)
+
+
+
+#### GamingPlatforms
 ![Switch](https://img.shields.io/badge/Switch-E60012.svg?logo=nintendo-switch&logoColor=white)
 ![Nintendo 3ds](https://img.shields.io/badge/Nintendo&nbsp;3ds-D12228?logo=nintendo-3ds&logoColor=white)
 ![Playstation](https://img.shields.io/badge/Playstation-003791.svg?logo=playstation&logoColor=white)
 ![xbox](https://img.shields.io/badge/xbox-107C10.svg?logo=xbox&logoColor=white)
+![RiotGames](https://img.shields.io/badge/Riot_Games-D32936?logo=riot-games&logoColor=white)
 ![Steam](https://img.shields.io/badge/Steam-000000.svg?logo=steam&logoColor=white)
