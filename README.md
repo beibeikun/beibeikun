@@ -2,6 +2,8 @@
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=beibeikun&theme=vue" />
 
+![beibeikun](https://count.getloli.com/get/@beibeikun?theme=rule34)
+
 #### Platforms&Equipments
 ![windows](https://img.shields.io/badge/Windows_11-0078d4?logo=windows-11&logoColor=white)
 ![ubuntu](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white)
