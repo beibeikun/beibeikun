@@ -6,21 +6,16 @@
 
 #### Platforms&Equipments
 ![windows](https://img.shields.io/badge/Windows_11-0078d4?logo=windows-11&logoColor=white)
-![ubuntu](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white)
 ![macOS](https://img.shields.io/badge/mac%20os-000000?logo=apple&logoColor=white)  
 ![win](https://img.shields.io/badge/Lenovo-Legion%20Y9000P%202023-0078D6.svg?logo=lenovo&logoColor=white)
-![nvidia](https://img.shields.io/badge/NVIDIA-RTX4070-76B900?logo=nvidia&logoColor=white)
 ![mac](https://img.shields.io/badge/Apple-MacBook_Pro_2020-333333?logo=apple&logoColor=white)
 
 #### Languages&Frameworks
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330.svg?logo=javascript&logoColor=F7DF1E)
 ![Java](https://img.shields.io/badge/Java-ED8B00.svg?logo=java&logoColor=white)
 ![Node](https://img.shields.io/badge/Node.js-43853D.svg?logo=node.js&logoColor=white)
-![Python](https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white)  
-![VueJS](https://img.shields.io/badge/Vue.js-35495e.svg?logo=vue.js&logoColor=4FC08D)
 ![VSCode](https://img.shields.io/badge/VSCode-007ACC?logo=visual-studio-code&logoColor=white)
 ![Microsoft SQL](https://img.shields.io/badge/Microsoft&nbsp;SQL&nbsp;Server-CC2927?logo=microsoft-sql-server&logoColor=white)
-![Microsoft Azure](https://img.shields.io/badge/Microsoft&nbsp;Azure-0089D6?logo=microsoft-azure&logoColor=white)
 ![IntelliJ](https://img.shields.io/badge/IntelliJ&nbsp;IDEA-black?logo=intellij-idea&logoColor=white)
 ![Markdown](https://img.shields.io/badge/Markdown-000000.svg?logo=markdown&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-black?logo=git)
